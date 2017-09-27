@@ -1,1 +1,2 @@
-lucky-word=word-luck
+lucky-word:
+  word-luck
