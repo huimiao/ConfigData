@@ -1,2 +1,9 @@
+---
+spring:
+  profiles: dev
 lucky-word:
   Irish
+
+---
+lucky-word:
+  huimiao
