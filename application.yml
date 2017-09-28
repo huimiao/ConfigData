@@ -5,13 +5,24 @@ eureka:
     serviceUrl: 
       #defaultZone: http://eureka-primary:8011/eureka/,http://eureka-secondary:8012/eureka/,http://eureka-tertiary:8013/eureka/
       defaultZone: http://localhost:8010/eureka/
+---
 spring:
   profiles: subject
+spring:
+  application:
+    name: lab-4-verb
+sever:
+  port: 8009
 words: I,You,He,She,It
 
 ---
 spring:
   profiles: verb
+spring:
+  application:
+    name: lab-4-verb
+sever:
+  port: 8008
 words: ran,knew,had,saw,bought
 
 ---
