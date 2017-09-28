@@ -30,7 +30,7 @@ words: a,the
 spring:
   profiles: adjective
   application:
-    name: lab-4-article
+    name: lab-4-adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
