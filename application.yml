@@ -10,7 +10,7 @@ spring:
   profiles: subject
 spring:
   application:
-    name: lab-4-verb
+    name: lab-4-subject
 sever:
   port: 8009
 words: I,You,He,She,It
