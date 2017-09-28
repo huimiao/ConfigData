@@ -8,7 +8,6 @@ eureka:
 ---
 spring:
   profiles: subject
-spring:
   application:
     name: lab-4-subject
 sever:
@@ -18,7 +17,6 @@ words: I,You,He,She,It
 ---
 spring:
   profiles: verb
-spring:
   application:
     name: lab-4-verb
 sever:
