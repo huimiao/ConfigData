@@ -2,10 +2,10 @@
 spring:
   profiles: dev
 wordConfig:  
-  lucky-word:
+  luckyWord:
     Irish
 
 ---
 wordConfig:
-  lucky-word:
+  luckyWord:
     huimiao
